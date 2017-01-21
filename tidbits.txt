@@ -1,0 +1,48 @@
+Music: 
+  Julien: Classical or folk music.
+  Anja: Loves The Beatles and other bands from the time, not involved in music much otherwise.
+  Monika: New Age and Jazz.
+  Florian: Mostly Jazz.
+
+Morning:
+  Monika: Likes to drink high-quality coffee and a bowl of cereal.
+  Florian: Gets himself an awfully bitter coffee and reads the newspaper.
+
+Evening:
+  Monika: She loves to read books late into the night in bed with just the bedsite table lamp on.
+  Florian: Sometimes he falls asleep in his clothes.
+
+Clothing:
+  Monika: Likes to wear tank-tops and long skirts in summer and spring, leathery clothes as well as hats in winter.
+  Florian: Likes to wear scraggly ties and white shirts with long sleeves. Wears a trenchcoat in winter.
+
+Weekends:
+  Monika: Tends to spend her time either reading or going out for a walk. Often times she's too fed up from work to draw.
+  Florian: Either works on weekends as well or goes out to bars. Sometimes he also spends an entire weekend reading through books.
+
+Foods:
+  Monika: Doesn't really care all too much about food, so she just makes whatever is available. She loves to cook for others though.
+  Florian: Same as Monika, but he hates to cook.
+
+Drinking: 
+  Monika: Dislikes sugared drinks and loves coffee, tea and milk.
+  Florian: Alcoholic beverages as well as milk and tea.
+
+Books:
+  Monika: Primarily crime and detective novels, but she also enjoys romance and science-fiction from time to time.
+  Florian: Mostly intellectual and non-fiction books, but sometimes likes to read science-fiction novels.
+
+Goals:
+  Monika: Wants to publish her own comic books. Settle down somewhere nice.
+  Florian: Become a famous and respected journalist.
+
+Quirks:
+  Monika: Fiddles with her hair often and likes to bite her nails.
+  Florian: Frequently checks his watch and scratches his head.
+
+Speech/Bheaviour Mannerisms:
+  Julien: Often replies with mere grunts and huffs at things rather than saying anything.
+  Anja: Fakes a cough in embarassing situations, likes to burry her face in her hands when she doesn't know what to do.
+  Monika: Frequently grins and smiles or looks around wildly with a bit of a blank expression. Can flip her character around when caught off-guard.
+  Florian: Often groans or sighs, likes to say "Naja, es isch ebe..." ~= "Well, it's like...".
+

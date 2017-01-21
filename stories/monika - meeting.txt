@@ -1,0 +1,134 @@
+== StoryTime - First Meeting - Draft 1 ==
+= Location: ZHDK, small side-room
+= Time: Fall/Winter 1989, a monday afternoon
+
+{SCENE}
+[Outside the room
+ Monika is sitting next to the door, leaning against the wall. She's
+ wearing a frowzy pullover, long jeans and a red hairclip. Monika
+ appears in deep thought, not minding her surroundings.]
+
+{ENTER: Anna}
+[Anna walks down the hallway towards the side-room. She's wearing a
+ black jacket, white shirt and long jeans. She looks quite well-kept
+ and carries a bag over her shoulder.]
+
+Anna approaches the door to the side-room and reaches to open the
+door, but holds for thought shortly. She looks at her watch (it's 5
+minutes before the lesson ends) and quietly steps aside to the other
+side of the door opposite to Monika. She leans against the wall, folds
+her arms and stares into space for a while, pondering about the
+meeting.
+
+Monika does not seem to take note of Anna and continues to mind her
+own thoughts.
+
+A short while passes.
+
+Anna clears her throat and looks at Monika.
+
+  <Anna>: So, uh do you have classes here, or?..
+  
+Monika snaps out of her meditation and faces Anna, a bewildered look
+in her face.
+
+  <Monika>: I- .. I- uh, no, I'm here for this.. (quietly) this silly
+  collaboration thing. (louder again) I got here a bit too early, I
+  guess.
+
+Monika seems to fall back into thought and stares off into the
+distance. Anna looks at her a bit confused, but doesn't respond. A few
+short seconds pass and suddenly monika jumps up, smiles and holds out
+her hand.
+
+  <Monika>: Hi, I'm Monika. I'm guessing we'll be partners for this
+  collaboration project, right?
+
+Anna steps back a little, surprised at the sudden reaction. She
+pulls herself together again quickly and with a rather concerned and
+still somewhat confused look reaches out to shake Monika's hand
+
+  <Anna>: Yes... My name's Anna, nice to meet you.
+
+An awkward silence falls for a few seconds. In an effort to break the
+mood Monika spouts
+
+  <Monika>: Uh! Well, do you know what exactly we're supposed to be
+  doing? I mean, I did read the paper, but...
+
+Anna shuffles through her bag, glad to have something to do. She
+quickly takes out a paper and glances over it.
+
+  <Anna>: Hmm, well it only says here that we're supposed to design a
+  poster to advertise a product, company or collective and write a short
+  article describing it. ... I guess we're pretty free on doing whatever
+  we want otherwise. What are you majoring in?
+  <Monika>: Fine Arts bachelor, third semester.
+  <Anna>: I'm doing a bachelor in design for Visual Communication. Third
+  semester as well. Hmm. Alright.
+
+The bell rings and the two step aside as the door opens and a few
+students rush into the hallway. After the students left, the two enter
+the room. The sun shines through a gap in the gray clouds into the
+room. The snow covered landscape outside bathes the room in a chilly
+and quiet atmosphere. Anna seats herself at the teacher's table up
+front and waits for Monika to follow.
+
+  <Anna>: So. Did you already prepare something for this or do you have
+  any ideas as to what you'd like to do?
+  <Monika>: (looks down) Uhm... well.. . No. Not really. (snaps back
+  up) But I would be open for anything! ..Well, anything as long as it's
+  actually a good idea of course. I mean... you know.
+  <Anna>: Right... So I guess the first thing to decide would be what
+  kind of thing we want to cover.
+  <Monika>: Oh! How about a movie poster? .. I mean, that's a kind of
+  product as well, right?
+  <Anna>: Hmm, I suppose. Though I don't think that's what they meant
+  with a product. Wait. (shuffles through papers) Hmm, no, it doesn't
+  specify anywhere. That's annoying. I guess we could make an ad for an
+  art school.
+  <Monika>: ..
+  <Anna>: Nah, that sounds a bit too much like a stupid joke.
+
+They both stare at the table for a while, deep in thought.
+
+  <Monika>: Well, I'd be more interested in making something for a
+  product of sorts, since that's more specific than just a group and
+  seems like an easier task to do well.
+  <Anna>: Yeah. (tilts her head) But still, what kind of product? They
+  left the task really open, so there's no limitations on what are
+  allowed to do from what I understand. .. It should be something
+  witty or clever to stand out. Making a poster is easy, but making it
+  interesting enough to give a good impression requires a good idea.
+  <Monika>: .. I don't think I'm particularly good at being witty
+  (smiles wryly). But.. I don't know, is it really that important? I'd
+  say the execution of the idea is going to make or break it in the end.
+  <Anna>: Certainly, but it would be easier if we had a great concept
+  to begin with.
+
+Monika begins rocking the chair. After a while, Anna sighs and takes
+out an agenda.
+
+  <Anna>: I think it wouldn't hurt if we just gave this some
+  time. When could we meet up next?
+  <Monika>: (stops rocking) Well, let's see. I guess I'm pretty free
+  whenever (grins). In the afternoon after classes I mean. ... Though
+  I guess a Friday would be best for me.
+  <Anna>: Hm. Alright, I guess that works. I don't know if this room
+  will be free though, so I'd suggest we meet up in the cafeteria. Oh,
+  and until then we should see about coming up with some ideas or
+  maybe even making up some basic concept work.
+  <Monika> (shrugs) sure.
+
+Anna begins gathering her belongings into the bag. Monika gets up and
+heads for the door.
+
+  <Anna>: ...(concerned) Don't forget!
+  <Monika>: (spins around) Oh, don't worry, I won't!
+
+Monika grins and leaves through the door.
+{EXIT: Monika}
+Anna sighs, picks up her bag and looks outside for a moment before
+leaving.
+
+{END SCENE}
